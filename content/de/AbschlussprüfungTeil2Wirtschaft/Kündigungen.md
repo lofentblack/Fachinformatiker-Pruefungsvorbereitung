@@ -9,7 +9,7 @@ description: "Eine Kündigung beendigt ein Angestellten Verhältnis. Dies kann a
 
 ## Ordentliche Kündigung
 
-- Arbeitnehmer kann ohne Grund kündigen
+- Arbeitnehmer kann ohne Grund nicht kündigen
 - Arbeitgeber braucht zulässigen Kündigungsgrund
 - Beendet ein Arbeitsverhältnis
 - Solange nicht anders vereinbart: **Kündigungsfrist** von **4 Wochen**
